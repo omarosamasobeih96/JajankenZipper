@@ -1,0 +1,60 @@
+file-page102 Successful Compression 794 milliseconds Compression ratio = 489.061 file size = 12101 bytes
+file-page103 Successful Compression 804 milliseconds Compression ratio = 427.225 file size = 13859 bytes
+file-page105 Successful Compression 715 milliseconds Compression ratio = 489.331 file size = 12100 bytes
+file-page106 Successful Compression 726 milliseconds Compression ratio = 470.888 file size = 12568 bytes
+file-page107 Successful Compression 786 milliseconds Compression ratio = 520.886 file size = 11367 bytes
+file-page108 Successful Compression 735 milliseconds Compression ratio = 535.577 file size = 11050 bytes
+file-page113 Successful Compression 663 milliseconds Compression ratio = 512.057 file size = 11563 bytes
+file-page114 Successful Compression 608 milliseconds Compression ratio = 716.914 file size = 8255 bytes
+file-page31 Successful Compression 429 milliseconds Compression ratio = 5288.76 file size = 1119 bytes
+file-page33 Successful Compression 736 milliseconds Compression ratio = 520.549 file size = 11369 bytes
+file-page34 Successful Compression 794 milliseconds Compression ratio = 513.389 file size = 11533 bytes
+file-page35 Successful Compression 717 milliseconds Compression ratio = 468.095 file size = 12643 bytes
+file-page38 Successful Compression 773 milliseconds Compression ratio = 493.944 file size = 11987 bytes
+file-page39 Successful Compression 750 milliseconds Compression ratio = 539.581 file size = 10968 bytes
+file-page42 Successful Compression 812 milliseconds Compression ratio = 467.059 file size = 12677 bytes
+file-page44 Successful Compression 716 milliseconds Compression ratio = 568.007 file size = 10424 bytes
+file-page45 Successful Compression 742 milliseconds Compression ratio = 467.762 file size = 12652 bytes
+file-page46 Successful Compression 732 milliseconds Compression ratio = 454.511 file size = 13027 bytes
+file-page48 Successful Compression 790 milliseconds Compression ratio = 442.884 file size = 13369 bytes
+file-page49 Successful Compression 748 milliseconds Compression ratio = 454.89 file size = 13010 bytes
+file-page50 Successful Compression 833 milliseconds Compression ratio = 415.794 file size = 14240 bytes
+file-page51 Successful Compression 709 milliseconds Compression ratio = 558.524 file size = 10596 bytes
+file-page52 Successful Compression 751 milliseconds Compression ratio = 471.222 file size = 12565 bytes
+file-page53 Successful Compression 744 milliseconds Compression ratio = 482.403 file size = 12268 bytes
+file-page54 Successful Compression 705 milliseconds Compression ratio = 608.709 file size = 9727 bytes
+file-page55 Successful Compression 788 milliseconds Compression ratio = 510.844 file size = 11585 bytes
+file-page56 Successful Compression 791 milliseconds Compression ratio = 521.207 file size = 11360 bytes
+file-page57 Successful Compression 596 milliseconds Compression ratio = 576.254 file size = 10270 bytes
+file-page59 Successful Compression 727 milliseconds Compression ratio = 405.018 file size = 14612 bytes
+file-page60 Successful Compression 829 milliseconds Compression ratio = 496.071 file size = 11930 bytes
+file-page62 Successful Compression 717 milliseconds Compression ratio = 454.018 file size = 13035 bytes
+file-page64 Successful Compression 773 milliseconds Compression ratio = 518.906 file size = 11405 bytes
+file-page65 Successful Compression 724 milliseconds Compression ratio = 488.738 file size = 12109 bytes
+file-page66 Successful Compression 789 milliseconds Compression ratio = 493.095 file size = 12002 bytes
+file-page67 Successful Compression 773 milliseconds Compression ratio = 415.394 file size = 14247 bytes
+file-page68 Successful Compression 765 milliseconds Compression ratio = 485.729 file size = 12184 bytes
+file-page69 Successful Compression 755 milliseconds Compression ratio = 461.92 file size = 12812 bytes
+file-page71 Successful Compression 775 milliseconds Compression ratio = 491.008 file size = 12053 bytes
+file-page72 Successful Compression 721 milliseconds Compression ratio = 488.778 file size = 12108 bytes
+file-page73 Successful Compression 738 milliseconds Compression ratio = 449.876 file size = 13155 bytes
+file-page76 Successful Compression 756 milliseconds Compression ratio = 457.493 file size = 12936 bytes
+file-page78 Successful Compression 740 milliseconds Compression ratio = 448.683 file size = 13190 bytes
+file-page79 Successful Compression 840 milliseconds Compression ratio = 488.94 file size = 12104 bytes
+file-page81 Successful Compression 706 milliseconds Compression ratio = 511.329 file size = 11574 bytes
+file-page82 Successful Compression 861 milliseconds Compression ratio = 528.215 file size = 11204 bytes
+file-page83 Successful Compression 612 milliseconds Compression ratio = 683.465 file size = 8659 bytes
+file-page84 Successful Compression 544 milliseconds Compression ratio = 862.7 file size = 6860 bytes
+file-page89 Successful Compression 814 milliseconds Compression ratio = 470.361 file size = 12588 bytes
+file-page90 Successful Compression 858 milliseconds Compression ratio = 489.83 file size = 12082 bytes
+file-page91 Successful Compression 765 milliseconds Compression ratio = 420.31 file size = 14087 bytes
+file-page94 Successful Compression 695 milliseconds Compression ratio = 401.202 file size = 14751 bytes
+file-page95 Successful Compression 769 milliseconds Compression ratio = 440.446 file size = 13443 bytes
+file-page96 Successful Compression 682 milliseconds Compression ratio = 484.417 file size = 12217 bytes
+file-page97 Successful Compression 772 milliseconds Compression ratio = 491.811 file size = 12039 bytes
+file-page98 Successful Compression 735 milliseconds Compression ratio = 473.109 file size = 12509 bytes
+
+time in milliseconds: 40722
+time in seconds: 40
+Average ratio: 499.193
+Total file sizes 652147 bytes

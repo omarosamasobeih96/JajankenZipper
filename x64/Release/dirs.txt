@@ -1,0 +1,66 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is CA8E-55CF
+
+ Directory of F:\Startup Projects\JajankenZipper\x64\Release\DataSet
+
+03/09/2018  03:15 PM    <DIR>          .
+03/09/2018  03:15 PM    <DIR>          ..
+04/09/2017  05:27 AM           787,153 file-page102.jpg
+04/09/2017  05:28 AM           850,164 file-page103.jpg
+04/09/2017  05:28 AM           753,244 file-page105.jpg
+04/09/2017  05:28 AM           738,270 file-page106.jpg
+04/09/2017  05:28 AM           679,814 file-page107.jpg
+04/09/2017  05:28 AM           782,448 file-page108.jpg
+04/09/2017  05:32 AM           646,679 file-page113.jpg
+04/09/2017  05:32 AM           550,688 file-page114.jpg
+05/11/2017  06:55 PM           107,504 file-page31.jpg
+04/08/2017  11:36 AM           702,846 file-page33.jpg
+04/08/2017  11:36 AM           861,973 file-page34.jpg
+04/08/2017  11:36 AM           710,136 file-page35.jpg
+04/08/2017  11:37 AM           777,705 file-page38.jpg
+04/08/2017  11:37 AM           761,888 file-page39.jpg
+04/08/2017  11:39 AM           847,394 file-page42.jpg
+04/08/2017  11:37 AM           721,159 file-page44.jpg
+04/08/2017  11:37 AM           749,633 file-page45.jpg
+04/08/2017  11:38 AM           766,082 file-page46.jpg
+04/08/2017  11:39 AM           853,121 file-page48.jpg
+04/08/2017  11:38 AM           756,466 file-page49.jpg
+04/08/2017  11:40 AM           907,964 file-page50.jpg
+04/08/2017  11:40 AM           765,476 file-page51.jpg
+04/08/2017  11:41 AM           812,457 file-page52.jpg
+04/08/2017  11:41 AM           831,544 file-page53.jpg
+04/08/2017  11:40 AM           727,210 file-page54.jpg
+04/08/2017  11:39 AM           726,472 file-page55.jpg
+04/08/2017  11:39 AM           723,668 file-page56.jpg
+04/08/2017  11:40 AM           518,055 file-page57.jpg
+04/08/2017  11:39 AM           785,107 file-page59.jpg
+04/08/2017  11:42 AM           815,466 file-page60.jpg
+04/08/2017  11:41 AM           760,603 file-page62.jpg
+04/08/2017  11:42 AM           840,918 file-page64.jpg
+04/08/2017  11:42 AM           764,632 file-page65.jpg
+04/08/2017  11:43 AM           869,456 file-page66.jpg
+04/08/2017  11:41 AM           778,004 file-page67.jpg
+04/08/2017  11:42 AM           846,919 file-page68.jpg
+04/08/2017  11:43 AM           794,694 file-page69.jpg
+04/08/2017  11:44 AM           863,899 file-page71.jpg
+04/08/2017  11:43 AM           733,575 file-page72.jpg
+04/08/2017  11:44 AM           789,994 file-page73.jpg
+04/08/2017  11:44 AM           833,728 file-page76.jpg
+04/09/2017  05:25 AM           829,736 file-page78.jpg
+04/09/2017  05:25 AM           880,672 file-page79.jpg
+04/08/2017  11:45 AM           715,345 file-page81.jpg
+04/08/2017  11:45 AM           763,239 file-page82.jpg
+04/08/2017  11:45 AM           548,054 file-page83.jpg
+04/08/2017  11:46 AM           346,239 file-page84.jpg
+04/09/2017  05:26 AM           802,636 file-page89.jpg
+04/09/2017  05:26 AM           724,036 file-page90.jpg
+04/09/2017  05:26 AM           771,518 file-page91.jpg
+04/09/2017  05:27 AM           698,865 file-page94.jpg
+04/09/2017  05:27 AM           821,579 file-page95.jpg
+04/09/2017  05:27 AM           674,169 file-page96.jpg
+04/09/2017  05:27 AM           772,990 file-page97.jpg
+04/09/2017  05:27 AM           803,713 file-page98.jpg
+              55 File(s)     41,046,999 bytes
+
+ Directory of F:\Startup Projects\JajankenZipper\x64\Release
+

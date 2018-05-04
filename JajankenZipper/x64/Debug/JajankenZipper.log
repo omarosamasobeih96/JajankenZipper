@@ -1,0 +1,54 @@
+﻿  JajankenZipper.cpp
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.h(129): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.h(146): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(402): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(408): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(412): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(495): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(501): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(513): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(519): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(677): warning C4244: 'argument': conversion from 'short' to 'const unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(680): warning C4244: 'argument': conversion from 'short' to 'const unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(692): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(124): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(18): note: see reference to function template instantiation 'std::map<std::string,int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> JajankenZipper::HuffmanEncoding<int>(const std::vector<_Ty,std::allocator<_Ty>> &,std::vector<uchar,std::allocator<unsigned char>> &)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=int
+          ]
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(170): warning C4244: 'argument': conversion from 'short' to 'const unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(173): warning C4244: 'argument': conversion from 'short' to 'const unsigned char', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(267): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+  c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(19): note: see reference to function template instantiation 'std::vector<uchar,std::allocator<_Ty>> JajankenZipper::WriteCodeAndData<int>(std::map<std::string,int,std::less<_Kty>,std::allocator<std::pair<const _Kty,int>>> *,const std::vector<_Ty,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=uchar,
+              _Kty=std::string
+          ]
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(196): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(68): note: see reference to function template instantiation 'std::vector<char,std::allocator<char>> JajankenZipper::HuffmanDecoding<char>(const std::vector<uchar,std::allocator<_Ty>> &,std::map<std::string,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,char>>> *)' being compiled
+          with
+          [
+              _Ty=uchar,
+              _Kty=std::string
+          ]
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(631): warning C4390: ';': empty controlled statement found; is this the intent?
+  c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.cpp(68): note: see reference to function template instantiation 'void JajankenZipper::ReadDataFromVecOfCharX<int>(const std::vector<char,std::allocator<char>> &,std::vector<int,std::allocator<_Ty>> &,int &,int &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  Generating Code...
+  Compiling...
+  Source.cpp
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.h(129): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\jajankenzipper.h(146): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\utility.h(33): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\source.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\sobeih's\source\repos\jajankenzipper\jajankenzipper\jajankenzipper\source.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  JajankenZipper.vcxproj -> C:\Users\Sobeih's\Source\Repos\JajankenZipper\JajankenZipper\x64\Debug\JajankenZipper.exe
